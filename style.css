@@ -319,6 +319,10 @@ body {
   margin-bottom: 50px;
   max-width: 50%;
 }
+.product-text{
+text-align: justify;
+  color:white;
+}
 .product-img {
   display: block;
   max-width: 100%;
